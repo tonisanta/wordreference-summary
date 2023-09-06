@@ -7,6 +7,8 @@ Have you ever wished to be able to save every word you search for on WordReferen
 - 🔍 View the most searched words by language
 - 💡 Review your vocabulary by downloading a JSON file with all the searched words.
 
+[Download from Chrome web store](https://chrome.google.com/webstore/detail/wordreference-summary/bklpghgbkbdcaoebmdloeeebfppeoado) 
+
 ## Screenshot and example file
 ![sample screenshot](images/sample-screenshot.png)
 
